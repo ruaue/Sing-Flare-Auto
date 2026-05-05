@@ -42,6 +42,8 @@
 | `UUID` | 你的节点连接密码 | `你的随机UUID` |
 | `ARGO_TOKEN` | Cloudflare Tunnel 的 Token | `eyJh...` |
 
+uuid生成器 [点击前往]（https://99688988.xyz/uuid-generator）
+
 *(注：部署端口默认为 `8080`，无需修改)*
 
 ### 客户端连接
